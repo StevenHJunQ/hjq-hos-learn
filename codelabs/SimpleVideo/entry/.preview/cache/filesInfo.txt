@@ -1,0 +1,13 @@
+C:/Users/18810/Desktop/SimpleVideo/entry/.preview/cache/entry/src/main/ets/entryability/EntryAbility.js;com.example.simplevideo/entry/ets/entryability/EntryAbility;esm;entry/src/main/ets/entryability/EntryAbility.ts;entry
+C:/Users/18810/Desktop/SimpleVideo/entry/.preview/cache/entry/src/main/ets/pages/SimpleVideoIndex.js;com.example.simplevideo/entry/ets/pages/SimpleVideoIndex;esm;entry/src/main/ets/pages/SimpleVideoIndex.ets;entry
+C:/Users/18810/Desktop/SimpleVideo/entry/.preview/cache/entry/src/main/ets/pages/SimpleVideoPlay.js;com.example.simplevideo/entry/ets/pages/SimpleVideoPlay;esm;entry/src/main/ets/pages/SimpleVideoPlay.ets;entry
+C:/Users/18810/Desktop/SimpleVideo/entry/.preview/cache/entry/src/main/ets/view/IndexModule.js;com.example.simplevideo/entry/ets/view/IndexModule;esm;entry/src/main/ets/view/IndexModule.ets;entry
+C:/Users/18810/Desktop/SimpleVideo/entry/.preview/cache/entry/src/main/ets/view/IndexSwiper.js;com.example.simplevideo/entry/ets/view/IndexSwiper;esm;entry/src/main/ets/view/IndexSwiper.ets;entry
+C:/Users/18810/Desktop/SimpleVideo/entry/.preview/cache/entry/src/main/ets/common/constants/CommonConstants.js;com.example.simplevideo/entry/ets/common/constants/CommonConstants;esm;entry/src/main/ets/common/constants/CommonConstants.ets;entry
+C:/Users/18810/Desktop/SimpleVideo/entry/.preview/cache/entry/src/main/ets/view/VideoPlayer.js;com.example.simplevideo/entry/ets/view/VideoPlayer;esm;entry/src/main/ets/view/VideoPlayer.ets;entry
+C:/Users/18810/Desktop/SimpleVideo/entry/.preview/cache/entry/src/main/ets/viewmodel/VideoData.js;com.example.simplevideo/entry/ets/viewmodel/VideoData;esm;entry/src/main/ets/viewmodel/VideoData.ets;entry
+C:/Users/18810/Desktop/SimpleVideo/entry/.preview/cache/entry/src/main/ets/viewmodel/ParamItem.js;com.example.simplevideo/entry/ets/viewmodel/ParamItem;esm;entry/src/main/ets/viewmodel/ParamItem.ets;entry
+C:/Users/18810/Desktop/SimpleVideo/entry/.preview/cache/entry/src/main/ets/view/VideoPlaySlider.js;com.example.simplevideo/entry/ets/view/VideoPlaySlider;esm;entry/src/main/ets/view/VideoPlaySlider.ets;entry
+C:/Users/18810/Desktop/SimpleVideo/entry/.preview/cache/entry/src/main/ets/model/VideoControll.js;com.example.simplevideo/entry/ets/model/VideoControll;esm;entry/src/main/ets/model/VideoControll.ets;entry
+C:/Users/18810/Desktop/SimpleVideo/entry/.preview/cache/entry/src/main/ets/viewmodel/HorizontalVideoItem.js;com.example.simplevideo/entry/ets/viewmodel/HorizontalVideoItem;esm;entry/src/main/ets/viewmodel/HorizontalVideoItem.ets;entry
+C:/Users/18810/Desktop/SimpleVideo/entry/.preview/cache/entry/src/main/ets/viewmodel/SwiperVideoItem.js;com.example.simplevideo/entry/ets/viewmodel/SwiperVideoItem;esm;entry/src/main/ets/viewmodel/SwiperVideoItem.ets;entry

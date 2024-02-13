@@ -1,0 +1,4 @@
+C:/Users/18810/Desktop/WebComponent/entry/.preview/cache/entry/src/main/ets/pages/MainPage.js;com.example.webcomponent/entry/ets/pages/MainPage;esm;entry/src/main/ets/pages/MainPage.ets;entry
+C:/Users/18810/Desktop/WebComponent/entry/.preview/cache/entry/src/main/ets/pages/WebPage.js;com.example.webcomponent/entry/ets/pages/WebPage;esm;entry/src/main/ets/pages/WebPage.ets;entry
+C:/Users/18810/Desktop/WebComponent/entry/.preview/cache/entry/src/main/ets/entryability/EntryAbility.js;com.example.webcomponent/entry/ets/entryability/EntryAbility;esm;entry/src/main/ets/entryability/EntryAbility.ts;entry
+C:/Users/18810/Desktop/WebComponent/entry/.preview/cache/entry/src/main/ets/common/Constant.js;com.example.webcomponent/entry/ets/common/Constant;esm;entry/src/main/ets/common/Constant.ets;entry

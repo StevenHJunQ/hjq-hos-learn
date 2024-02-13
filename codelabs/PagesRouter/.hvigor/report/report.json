@@ -1,0 +1,1476 @@
+{
+  "version": "1.0",
+  "workerIdList": [
+    -1,
+    2,
+    0,
+    1
+  ],
+  "metrics": [
+    {
+      "type": "build_line",
+      "endTime": 1707161065502,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "init",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161065501
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161065505,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "init",
+      "taskPath": "PagesRouter",
+      "workerId": -1,
+      "startTime": 1707161065505
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161125313,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@PreBuild",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161125217
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161125318,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@GenerateMetadata",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161125314
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161125327,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@MergeProfile",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161125324
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161125329,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@BuildNativeWithCmake",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161125329
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161125334,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@GenerateLoaderJson",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161125333
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161125345,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@MakePackInfo",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161125340
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161125512,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessProfile",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161125346
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161125513,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@BuildNativeWithNinja",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161125512
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161125518,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessResource",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161125513
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161125522,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessLibs",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161125519
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161125629,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileResource",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161125522
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161125641,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileJS",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161125639
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161132940,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileArkTS",
+      "taskPath": "entry",
+      "workerId": 2,
+      "startTime": 1707161125638
+    },
+    {
+      "type": "default",
+      "endTime": 1707161132941,
+      "status": "closed",
+      "children": [
+        {
+          "type": "build_line",
+          "endTime": 1707161132940,
+          "status": "closed",
+          "children": [],
+          "name": "overallTime",
+          "taskName": "default@CompileArkTS",
+          "taskPath": "entry",
+          "workerId": 2,
+          "startTime": 1707161125638
+        }
+      ],
+      "name": "overallTime",
+      "taskName": "default@CompileArkTS",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161125630
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161133678,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@PackageHap",
+      "taskPath": "entry",
+      "workerId": 0,
+      "startTime": 1707161132947
+    },
+    {
+      "type": "default",
+      "endTime": 1707161133678,
+      "status": "closed",
+      "children": [
+        {
+          "type": "build_line",
+          "endTime": 1707161133678,
+          "status": "closed",
+          "children": [],
+          "name": "overallTime",
+          "taskName": "default@PackageHap",
+          "taskPath": "entry",
+          "workerId": 0,
+          "startTime": 1707161132947
+        }
+      ],
+      "name": "overallTime",
+      "taskName": "default@PackageHap",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161132942
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161133687,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@SignHap",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161133686
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161133687,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "assembleHap",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161133687
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161572221,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@PreBuild",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161572220
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161572224,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@GenerateMetadata",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161572222
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161572227,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@MergeProfile",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161572226
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161572228,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@BuildNativeWithCmake",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161572228
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161572231,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@GenerateLoaderJson",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161572230
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161572234,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@MakePackInfo",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161572232
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161572235,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessProfile",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161572235
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161572236,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@BuildNativeWithNinja",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161572236
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161572239,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessResource",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161572238
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161572239,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessLibs",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161572239
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161572258,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileResource",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161572254
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161572267,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileJS",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161572265
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161574376,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileArkTS",
+      "taskPath": "entry",
+      "workerId": 2,
+      "startTime": 1707161572265
+    },
+    {
+      "type": "default",
+      "endTime": 1707161574376,
+      "status": "closed",
+      "children": [
+        {
+          "type": "build_line",
+          "endTime": 1707161574376,
+          "status": "closed",
+          "children": [],
+          "name": "overallTime",
+          "taskName": "default@CompileArkTS",
+          "taskPath": "entry",
+          "workerId": 2,
+          "startTime": 1707161572265
+        }
+      ],
+      "name": "overallTime",
+      "taskName": "default@CompileArkTS",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161572258
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161620853,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@PreBuild",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161620852
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161620856,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@GenerateMetadata",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161620854
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161620858,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@MergeProfile",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161620857
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161620859,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@BuildNativeWithCmake",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161620859
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161620860,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@GenerateLoaderJson",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161620860
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161620863,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@MakePackInfo",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161620861
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161620864,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessProfile",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161620864
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161620865,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@BuildNativeWithNinja",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161620865
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161620882,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessResource",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161620881
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161620882,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessLibs",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161620882
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161620886,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileResource",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161620883
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161620894,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileJS",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161620891
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161622941,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileArkTS",
+      "taskPath": "entry",
+      "workerId": 1,
+      "startTime": 1707161620891
+    },
+    {
+      "type": "default",
+      "endTime": 1707161622941,
+      "status": "closed",
+      "children": [
+        {
+          "type": "build_line",
+          "endTime": 1707161622941,
+          "status": "closed",
+          "children": [],
+          "name": "overallTime",
+          "taskName": "default@CompileArkTS",
+          "taskPath": "entry",
+          "workerId": 1,
+          "startTime": 1707161620891
+        }
+      ],
+      "name": "overallTime",
+      "taskName": "default@CompileArkTS",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161620886
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161640564,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@PreBuild",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161640563
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161640566,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@GenerateMetadata",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161640564
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161640570,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@MergeProfile",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161640569
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161640572,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@BuildNativeWithCmake",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161640572
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161640576,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@GenerateLoaderJson",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161640575
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161640581,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@MakePackInfo",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161640577
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161640586,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessProfile",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161640585
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161640586,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@BuildNativeWithNinja",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161640586
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161640589,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessResource",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161640588
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161640589,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessLibs",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161640589
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161640593,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileResource",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161640590
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161640601,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileJS",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161640599
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161642697,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileArkTS",
+      "taskPath": "entry",
+      "workerId": 1,
+      "startTime": 1707161640598
+    },
+    {
+      "type": "default",
+      "endTime": 1707161642697,
+      "status": "closed",
+      "children": [
+        {
+          "type": "build_line",
+          "endTime": 1707161642697,
+          "status": "closed",
+          "children": [],
+          "name": "overallTime",
+          "taskName": "default@CompileArkTS",
+          "taskPath": "entry",
+          "workerId": 1,
+          "startTime": 1707161640598
+        }
+      ],
+      "name": "overallTime",
+      "taskName": "default@CompileArkTS",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161640593
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161642936,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@PackageHap",
+      "taskPath": "entry",
+      "workerId": 0,
+      "startTime": 1707161642705
+    },
+    {
+      "type": "default",
+      "endTime": 1707161642936,
+      "status": "closed",
+      "children": [
+        {
+          "type": "build_line",
+          "endTime": 1707161642936,
+          "status": "closed",
+          "children": [],
+          "name": "overallTime",
+          "taskName": "default@PackageHap",
+          "taskPath": "entry",
+          "workerId": 0,
+          "startTime": 1707161642705
+        }
+      ],
+      "name": "overallTime",
+      "taskName": "default@PackageHap",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161642699
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161642938,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@SignHap",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161642937
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161642938,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "assembleHap",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161642938
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161683817,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@PreBuild",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161683816
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161683819,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@GenerateMetadata",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161683817
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161683822,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@MergeProfile",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161683821
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161683823,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@BuildNativeWithCmake",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161683823
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161683825,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@GenerateLoaderJson",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161683825
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161683829,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@MakePackInfo",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161683826
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161683830,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessProfile",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161683830
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161683841,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@BuildNativeWithNinja",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161683841
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161683858,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessResource",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161683857
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161683858,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessLibs",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161683858
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161683862,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileResource",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161683859
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161683871,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileJS",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161683869
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161685801,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileArkTS",
+      "taskPath": "entry",
+      "workerId": 1,
+      "startTime": 1707161683869
+    },
+    {
+      "type": "default",
+      "endTime": 1707161685802,
+      "status": "closed",
+      "children": [
+        {
+          "type": "build_line",
+          "endTime": 1707161685801,
+          "status": "closed",
+          "children": [],
+          "name": "overallTime",
+          "taskName": "default@CompileArkTS",
+          "taskPath": "entry",
+          "workerId": 1,
+          "startTime": 1707161683869
+        }
+      ],
+      "name": "overallTime",
+      "taskName": "default@CompileArkTS",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161683862
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161686037,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@PackageHap",
+      "taskPath": "entry",
+      "workerId": 0,
+      "startTime": 1707161685807
+    },
+    {
+      "type": "default",
+      "endTime": 1707161686037,
+      "status": "closed",
+      "children": [
+        {
+          "type": "build_line",
+          "endTime": 1707161686037,
+          "status": "closed",
+          "children": [],
+          "name": "overallTime",
+          "taskName": "default@PackageHap",
+          "taskPath": "entry",
+          "workerId": 0,
+          "startTime": 1707161685807
+        }
+      ],
+      "name": "overallTime",
+      "taskName": "default@PackageHap",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161685803
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161686038,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@SignHap",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161686038
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161686039,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "assembleHap",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161686039
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161720120,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@PreBuild",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161720119
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161720122,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@GenerateMetadata",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161720120
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161720124,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@MergeProfile",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161720123
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161720124,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@BuildNativeWithCmake",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161720124
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161720125,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@GenerateLoaderJson",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161720125
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161720129,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@MakePackInfo",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161720127
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161720132,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessProfile",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161720131
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161720132,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@BuildNativeWithNinja",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161720132
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161720145,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessResource",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161720143
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161720145,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessLibs",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161720145
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161720149,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileResource",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161720146
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161720157,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileJS",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161720155
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161722238,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileArkTS",
+      "taskPath": "entry",
+      "workerId": 1,
+      "startTime": 1707161720155
+    },
+    {
+      "type": "default",
+      "endTime": 1707161722239,
+      "status": "closed",
+      "children": [
+        {
+          "type": "build_line",
+          "endTime": 1707161722238,
+          "status": "closed",
+          "children": [],
+          "name": "overallTime",
+          "taskName": "default@CompileArkTS",
+          "taskPath": "entry",
+          "workerId": 1,
+          "startTime": 1707161720155
+        }
+      ],
+      "name": "overallTime",
+      "taskName": "default@CompileArkTS",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161720149
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161722487,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@PackageHap",
+      "taskPath": "entry",
+      "workerId": 0,
+      "startTime": 1707161722245
+    },
+    {
+      "type": "default",
+      "endTime": 1707161722487,
+      "status": "closed",
+      "children": [
+        {
+          "type": "build_line",
+          "endTime": 1707161722487,
+          "status": "closed",
+          "children": [],
+          "name": "overallTime",
+          "taskName": "default@PackageHap",
+          "taskPath": "entry",
+          "workerId": 0,
+          "startTime": 1707161722245
+        }
+      ],
+      "name": "overallTime",
+      "taskName": "default@PackageHap",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161722240
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161722495,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@SignHap",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161722494
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161722495,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "assembleHap",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161722495
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161783647,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@PreBuild",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161783646
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161783651,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@GenerateMetadata",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161783648
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161783655,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@MergeProfile",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161783654
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161783657,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@BuildNativeWithCmake",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161783657
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161783660,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@GenerateLoaderJson",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161783659
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161783665,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@MakePackInfo",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161783661
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161783670,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessProfile",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161783669
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161783670,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@BuildNativeWithNinja",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161783670
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161783672,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessResource",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161783671
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161783673,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@ProcessLibs",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161783672
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161783726,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileResource",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161783673
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161783733,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileJS",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161783731
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161785917,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@CompileArkTS",
+      "taskPath": "entry",
+      "workerId": 1,
+      "startTime": 1707161783731
+    },
+    {
+      "type": "default",
+      "endTime": 1707161785917,
+      "status": "closed",
+      "children": [
+        {
+          "type": "build_line",
+          "endTime": 1707161785917,
+          "status": "closed",
+          "children": [],
+          "name": "overallTime",
+          "taskName": "default@CompileArkTS",
+          "taskPath": "entry",
+          "workerId": 1,
+          "startTime": 1707161783731
+        }
+      ],
+      "name": "overallTime",
+      "taskName": "default@CompileArkTS",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161783726
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161786177,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@PackageHap",
+      "taskPath": "entry",
+      "workerId": 0,
+      "startTime": 1707161785921
+    },
+    {
+      "type": "default",
+      "endTime": 1707161786177,
+      "status": "closed",
+      "children": [
+        {
+          "type": "build_line",
+          "endTime": 1707161786177,
+          "status": "closed",
+          "children": [],
+          "name": "overallTime",
+          "taskName": "default@PackageHap",
+          "taskPath": "entry",
+          "workerId": 0,
+          "startTime": 1707161785921
+        }
+      ],
+      "name": "overallTime",
+      "taskName": "default@PackageHap",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161785918
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161786186,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "default@SignHap",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161786185
+    },
+    {
+      "type": "build_line",
+      "endTime": 1707161786186,
+      "status": "closed",
+      "children": [],
+      "name": "overallTime",
+      "taskName": "assembleHap",
+      "taskPath": "entry",
+      "workerId": -1,
+      "startTime": 1707161786186
+    }
+  ],
+  "workLog": []
+}
